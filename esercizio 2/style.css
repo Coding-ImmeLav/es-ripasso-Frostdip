@@ -5,3 +5,69 @@ body {
 }
 
 /* Inserisci qui di seguito il css necessario per completare gli esercizi */
+
+.rosso {
+    color: red;
+}
+
+.verde {
+    color: lightgreen;
+    font-size: 20px;
+}
+
+.blu {
+    color: blue;
+    font-weight: bold;
+}
+
+.arancio {
+    color: orange;
+    font-style: italic;
+}
+
+.button1 {
+    background-color: green;
+    color: white;
+    border: transparent;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.button2 {
+    background-color: red;
+    color: white;
+    border: 2px solid black;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.spaziorosa {
+    background-color: pink;
+    height: 30vh;
+}
+
+.spazioazzu {
+    background-color: aqua;
+    height: 30vh;
+    width: 50%;
+}
+
+.hover1:hover {
+    background-color: red;
+    cursor: pointer;
+}
+
+.hover2:hover {
+    color:aquamarine;
+    cursor: pointer;
+}
+
+.hover3:hover {
+    color:lightblue;
+    cursor: pointer;
+    background-color: lightcoral;
+}
